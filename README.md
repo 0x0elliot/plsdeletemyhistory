@@ -41,15 +41,15 @@ A Command-line script which deletes your browser and bash history if you don't t
 </p>
 <h2>How to use it:</h2>
 <b>For help message.</b><br>
-<code>python3 plsdeletemyhistory --help</code><br>
+<code>python3 plsdeletemyhistory.py --help</code><br>
 <b>To delete your google-chrome's history in 15 minutes.</b><br>
-<code>python3 plsdeletemyhistory -s 15</code><br>
+<code>python3 plsdeletemyhistory.py -s 15</code><br>
 <b>To delete your google-chrome's history in 1 day.</b><br>
-<code>python3 plsdeletemyhistory -d 1</code><br>
+<code>python3 plsdeletemyhistory.py -d 1</code><br>
 <b>To delete your google-chrome's history and bash history in 1 day.</b><br>
-<code>python3 plsdeletemyhistory -d 1 -b</code><br>
+<code>python3 plsdeletemyhistory.py -d 1 -b</code><br>
 <b>To delete your google-chrome's history in 1 day and then poweroff your computer.</b><br>
-<code>python3 plsdeletemyhistory -d 1 -b -o</code><br>
+<code>python3 plsdeletemyhistory.py -d 1 -b -o</code><br>
 <p>Play around with the commands. I am sure it's not too hard to understand ^^</p>
 <h2>Requirements:</h2>
 <p>
