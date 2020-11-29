@@ -35,7 +35,8 @@ A Command-line script which deletes your browser and bash history if you don't t
   <li>Simple to use</li>
   <li>Has also the option of wiping your bash history.</li>
   <li>Has also the option of automatically shutting down your PC after running the script.</li>
-  <li>Does the job well.</li>
+  <li>Colorful interface</li>
+  <li>Does the job.</li>
   <li>Works on my machine.</li>
 </ul>
 </p>
@@ -61,6 +62,5 @@ A Command-line script which deletes your browser and bash history if you don't t
 </p>
 <h2>How to contribute?: </h2>
 <p>Just fork the project, Give it your own spin and make a pull request! I won't take too late to respond. As of now, I haven't implemented this for firefox and other browsers. I also plan on adding windows capatibility to it. Would be nice if someone chose to help out!</p>
-<br>
 <h2>Please support :)</h2>
 <p>Don't forget to star the project like you forgot to use the incognito mode :eyes:</p>
