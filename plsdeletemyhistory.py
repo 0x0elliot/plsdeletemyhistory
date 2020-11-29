@@ -9,6 +9,8 @@ from termcolor import colored
 
 __author__="0x0elliot"
 
+bash=False
+
 home=os.environ["HOME"]
 
 parser=optparse.OptionParser()
