@@ -8,9 +8,9 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
 [![discordinvite](https://discord.com/api/guilds/735163958356607077/embed.png)](https://discord.gg/WfqjXTwjGs)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/0x0elliot/plsdeletemyhistory/blob/main/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/0x0elliot.svg?style=social&label=Follow%20@0x0elliot)](https://twitter.com/0x0elliot)
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://0x0elliot)
 
 
 
